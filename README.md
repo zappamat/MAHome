@@ -1,2 +1,2 @@
-<h> gh repo clone zappamat/MAHome/h> 
+gh repo clone zappamat/MAHome/ 
 
