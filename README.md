@@ -1,2 +1,2 @@
-<h> Here is a sample </h> 
+<h> gh repo clone zappamat/MAHome/h> 
 
